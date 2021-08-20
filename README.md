@@ -3,6 +3,10 @@ Simulates a plethora of visually pleasing ways to see a double pendulum's behavi
 
 ## Demo
 
+(Quality much worse here due to gif-conversion)
+
+![Demo](https://github.com/Zachhi/DoublePendulum-ButterflyEffect-VS/blob/master/pendulumDemoGif.gif)
+
 https://www.youtube.com/watch?v=sKC-cpFBwPs
 
 # About
