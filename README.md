@@ -1,4 +1,4 @@
-# DoublePendulum-ButterflyEEffect-Windows-Linux
+# DoublePendulum-ButterflyEffect-Windows-Linux
 Simulates a plethora of visually pleasing ways to see a double pendulum's behavior and it's chaotic nature, including the butterfly effect.
 
 ## Demo
