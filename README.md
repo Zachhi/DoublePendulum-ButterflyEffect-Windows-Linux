@@ -8,7 +8,7 @@ Simulates a plethora of visually pleasing ways to see a double pendulum's behavi
 ![Demo](https://github.com/Zachhi/DoublePendulum-ButterflyEffect-VS/blob/master/pendulumDemonstration.gif)
 
 Watch the video here (above is only a 10 second gif): 
- https://www.youtube.com/watch?v=sKC-cpFBwPs
+https://www.youtube.com/watch?v=zVo4oz1-nTU
 
 # About
 This program simulates a physically accurate double pendulum. The purpose is to show it's behavior as well as it's chaos/unpredictableness quality in multiple visual ways. A double pendulum is known for it's ability to simulate chaos and randomness. Given two double pendulums, spaced only a millionth of a radian apart, after 15-30 seconds these pendulums will have completley different motion. This is an example of it's chaos - it's starting position matters **signifigantly**. I have decided to represent these qualities in a variety of different visual ways using this program. 
